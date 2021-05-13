@@ -28,3 +28,7 @@ python genItunesImage.py code.txt
 - `--isRawText/-r`: flag for whether input is raw text not file name
 
 If you use with pipe `|`, the flag of `--isRawText/-r` automatically judged true.
+
+## javascript on CodePen
+
+You can use this script on CodePen in javascript: https://codepen.io/tomotom0/pen/xxqZaJm
